@@ -12,7 +12,7 @@
 ### 9 oct 2017
 1. [HTML](http://svel.to/oi7) - [TEST](http://svel.to/oi6)
 2. [Web Page Structure](http://svel.to/oib) - [TEST](http://svel.to/oia)
-3. [CSS](http://svel.to/oho) - [TEST](http://svel.to/oia)
+3. [CSS](http://svel.to/oho)
 
 ## Avviso  
 **La quarta lezione di progettazione e creazione di siti web è prevista venerdì 13 ottobre alle ore 14:45 in aula Turing (p.t. edificio centrale)**
