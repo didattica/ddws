@@ -17,7 +17,6 @@
 
 ### 13 oct 2017
 1. [CSS](http://svel.to/oho) - [TEST](http://svel.to/ohn)
-2. 
 
 ### 16 oct 2017
 1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
