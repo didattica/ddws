@@ -1,7 +1,7 @@
 # Design and development of a website
 
 ## Avviso  
-**La quinta lezione di progettazione e creazione di siti web è prevista lunedì 16 ottobre alle ore 14:00 in aula 10 (p.t. edificio centrale)**
+**La quinta lezione di progettazione e creazione di siti web è prevista venerdì 20 ottobre alle ore 14:45 in aula Turing (p.t. edificio centrale)**
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
@@ -17,6 +17,8 @@
 
 ### 13 oct 2017
 1. [CSS](http://svel.to/oho) - [TEST](http://svel.to/ohn)
-2. [Digital Image](http://svel.to/om0)
+2. 
 
-
+### 16 oct 2017
+1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
+2. [Web graphic](http://svel.to/on2), [TEST](http://svel.to/ndz)
