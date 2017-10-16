@@ -20,4 +20,4 @@
 
 ### 16 oct 2017
 1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
-2. [Web graphic](http://svel.to/on2), [TEST](http://svel.to/ndz)
+2. [Web graphic](http://svel.to/on2)<!--, [TEST](http://svel.to/ndz)-->
