@@ -1,8 +1,9 @@
 # Design and development of a website
 
 ## Avviso  
-** La lezione prevista per venerdì 20 ottobre è stata annulata.
-La prossima lezione di progettazione e creazione di siti web è prevista lunedì 23 ottobre alle ore 14:00 in aula 10 (p.t. edificio centrale). Si consiglia di partecipare muniti di portatile.**
+__La lezione prevista per venerdì 20 ottobre è stata annulata.__  
+__La prossima lezione di progettazione e creazione di siti web è prevista lunedì 23 ottobre alle ore 14:00 in aula 10 (p.t. edificio centrale).__   
+__Si consiglia di partecipare muniti di portatile.__   
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
