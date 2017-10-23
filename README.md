@@ -23,9 +23,9 @@ __Si consiglia di partecipare muniti di portatile.__
 1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
 2. [Web graphic](http://svel.to/on2)<!--, [TEST](http://svel.to/ndz)-->
 
-### 13 oct 2017
+### 23 oct 2017
 0. [Project implementation - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
 1. [SublimeText](https://www.youtube.com/watch?v=89oKElqZv6w&index=1&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
 2. [GitHub](https://www.youtube.com/watch?v=xbqIeUkvLtI&index=2&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
-3. [Frrenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3) 
+3. [Freenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3) 
 
