@@ -1,8 +1,7 @@
 # Design and development of a website
 
 ## Avviso  
-__La lezione prevista per venerdì 20 ottobre è stata annulata.__  
-__La prossima lezione di progettazione e creazione di siti web è prevista lunedì 23 ottobre alle ore 14:00 in aula 10 (p.t. edificio centrale).__   
+__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 27 ottobre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
 __Si consiglia di partecipare muniti di portatile.__   
 
 ### 2 oct 2017
@@ -23,3 +22,10 @@ __Si consiglia di partecipare muniti di portatile.__
 ### 16 oct 2017
 1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
 2. [Web graphic](http://svel.to/on2)<!--, [TEST](http://svel.to/ndz)-->
+
+### 13 oct 2017
+0. [Project implementation - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+1. [SublimeText](https://www.youtube.com/watch?v=89oKElqZv6w&index=1&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+2. [GitHub](https://www.youtube.com/watch?v=xbqIeUkvLtI&index=2&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+3. [Frrenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3) 
+
