@@ -1,7 +1,7 @@
 # Design and development of a website
 
 ## Avviso  
-__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 27 ottobre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
+__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 3 novembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__   
 __Si consiglia di partecipare muniti di portatile.__   
 
 ### 2 oct 2017
@@ -28,4 +28,8 @@ __Si consiglia di partecipare muniti di portatile.__
 1. [SublimeText](https://www.youtube.com/watch?v=89oKElqZv6w&index=1&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
 2. [GitHub](https://www.youtube.com/watch?v=xbqIeUkvLtI&index=2&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
 3. [Freenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3) 
+
+
+### 27 oct 2017
+1. [Responsive web design - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADMlGDWuXa_XV0IwVLEz9Xl) 
 
