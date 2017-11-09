@@ -1,7 +1,7 @@
 # Design and development of a website
 
 ## Avviso  
-__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 13 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
+__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 10 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
 <!--__Si consiglia di partecipare muniti di portatile.__ -->  
 
 ### 2 oct 2017
