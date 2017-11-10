@@ -1,8 +1,8 @@
 # Design and development of a website
 
 ## Avviso  
-__La prossima lezione di progettazione e creazione di siti web è prevista venerdì 10 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
-<!--__Si consiglia di partecipare muniti di portatile.__ -->  
+__La prossima lezione di progettazione e creazione di siti web è prevista lunedì 13 novembre alle ore 14:10 in aula Turing (p.t. edificio centrale).__   
+__Si consiglia di partecipare muniti di portatile.__  
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
@@ -41,3 +41,8 @@ __La prossima lezione di progettazione e creazione di siti web è prevista vener
 1. [Web graphic TEST](http://svel.to/ndz)
 2. [Responsive Web Design](https://tinyurl.com/yb3xtyl6)
 3. [Front end framework](http://svel.to/ozk)
+
+### 10 nov 2017
+1. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
+2. [AJAX](http://svel.to/nfr), [TEST](http://svel.to/nkj)
+3. [DBMS](http://svel.to/p20), [TEST](http://svel.to/ndh)
