@@ -1,7 +1,7 @@
-# Design and development of a website
+# Progettazione e creazione di siti web e Interfacce e Usabilità
 
 ## Avviso  
-__La prossima lezione di progettazione e creazione di siti web è prevista lunedì 13 novembre alle ore 14:10 in aula Turing (p.t. edificio centrale).__   
+__La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 17 novembre alle ore 14:10 in aula Turing (p.t. edificio centrale).__   
 __Si consiglia di partecipare muniti di portatile.__  
 
 ### 2 oct 2017
@@ -46,3 +46,7 @@ __Si consiglia di partecipare muniti di portatile.__
 1. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
 2. [AJAX](http://svel.to/nfr), [TEST](http://svel.to/nkj)
 3. [DBMS](http://svel.to/p20), [TEST](http://svel.to/ndh)
+
+### 13 nov 2017
+1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+2. [Modal - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IABL_42bh96ardk-s7dfnXYd) 
