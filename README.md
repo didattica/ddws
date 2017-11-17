@@ -1,8 +1,9 @@
 # Progettazione e creazione di siti web e Interfacce e Usabilità
 
-## Avviso  
-__La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 17 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__   
-<!--__Si consiglia di partecipare muniti di portatile.__  -->
+## Avviso 
+__La lezione di questo pomeriggio, 17/11/2017, è stata annullata.__    
+
+__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 20 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
