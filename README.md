@@ -1,9 +1,7 @@
 # Progettazione e creazione di siti web e Interfacce e Usabilità
 
 ## Avviso 
-__La lezione di questo pomeriggio, 17/11/2017, è stata annullata.__    
-
-__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 20 novembre alle ore 14:00 in aula Turing (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__
+__La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 24 novembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
@@ -50,4 +48,9 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 20 novemb
 
 ### 13 nov 2017
 1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
-2. [Modal - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IABL_42bh96ardk-s7dfnXYd) 
+2. [Bootstrap 4 - Modal](https://www.youtube.com/playlist?list=PLbejvFLz_IABL_42bh96ardk-s7dfnXYd) 
+
+## 20 nov 2017
+
+1. [la diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+2. [Bootstrap 4 - Form](https://www.youtube.com/playlist?list=PLbejvFLz_IAAU0Hg5K8xnrh6olqctZfEC)
