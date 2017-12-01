@@ -54,3 +54,9 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 24 novem
 
 1. [la diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
 2. [Bootstrap 4 - Form](https://www.youtube.com/playlist?list=PLbejvFLz_IAAU0Hg5K8xnrh6olqctZfEC)
+
+## 24 nov 2017
+1. [Evoluzione dei paradigmi di interazione](http://svel.to/pd7), [TEST](http://svel.to/pic)
+
+## 01 dec 2017
+1. [Periferiche di Input e Output](http://svel.to/ph1)
