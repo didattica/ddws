@@ -1,7 +1,9 @@
 # Progettazione e creazione di siti web e Interfacce e Usabilità
 
 ## Avviso 
-__La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 24 novembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__
+__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__
+
+__La prova parziale di "Progettazione e creazione di siti web e Interfacce e Usabilità" con quesiti a risposta multipla è prevista lunedì 18 dicembre alle ore 15:00 in aula 10.__
 
 ### 2 oct 2017
 1. [Course info and presentation](http://svel.to/oe6)
@@ -63,4 +65,4 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista venerdì 24 novem
 
 
 ## 01 dec 2017
-1. [Periferiche di Input e Output](http://svel.to/ph1)
+1. [Periferiche di Input e Output](http://svel.to/ph1), [TEST](http://svel.to/pih)
