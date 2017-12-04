@@ -63,6 +63,9 @@ __La prova parziale di "Progettazione e creazione di siti web e Interfacce e Usa
 ## 27 nov 2017
 1. [Evoluzione dei paradigmi di interazione](http://svel.to/pd7), [TEST](http://svel.to/pic)
 
-
 ## 01 dec 2017
 1. [Periferiche di Input e Output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+2. [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
+
+## 04 dec 2017
+1. [Usabilità - Introduzione](http://svel.to/pk2)
