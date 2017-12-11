@@ -69,4 +69,7 @@ __La prova parziale di "Progettazione e creazione di siti web e Interfacce e Usa
 2. [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
 
 ## 04 dec 2017
-1. [Usabilità - Introduzione](http://svel.to/pk2)
+1. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+
+## 11 dec 2017
+1. [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
