@@ -2,8 +2,8 @@
 
 ## Avviso 
 __La prossima lezione di "Interfacce e Usabilità" è prevista martedì 6 febbraio alle ore 14:00 in aula Turing.__ 
-__Si consiglia di partecipare muniti di portatile.__
-<!--__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__-->
+<!-- Si consiglia di partecipare muniti di portatile.__
+__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__-->
 
 <!--__La prova parziale di "Progettazione e creazione di siti web e Interfacce e Usabilità" con quesiti a risposta multipla è prevista lunedì 18 dicembre alle ore 15:00 in aula 10.__ -->
 
