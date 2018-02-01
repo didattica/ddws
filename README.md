@@ -78,5 +78,10 @@ __Si consiglia di partecipare muniti di portatile.__
 ## 18 dec 2017
 1. [Prova parziale di "Progettazione e creazione di siti web e Interfacce e Usabilità"]
 
-## 15 gen 2017
+## 15 gen 2018
 1. [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
+
+## 22 gen 2018
+1. [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
+
+## 6 feb 2018
