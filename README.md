@@ -85,3 +85,5 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 1. [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
 
 ## 6 feb 2018
+1. [Progettare la grafica](http://svel.to/q55), [TEST](http://svel.to/q6d)
+2. [Progettare il testo](http://svel.to/quv), [TEST](http://svel.to/qun)
