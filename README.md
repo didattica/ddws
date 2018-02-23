@@ -40,8 +40,8 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Bootstrap 4 - Form](https://www.youtube.com/playlist?list=PLbejvFLz_IAAU0Hg5K8xnrh6olqctZfEC)
 * [Digital divide](http://svel.to/pb2), [TEST](http://svel.to/pb3)
 * [Periferiche di Input e Output](http://svel.to/ph1), [TEST](http://svel.to/pih)
-* [Come installare Xampp su Windows](https://www.youtube.com/playlist?list=PLbejvFLz_IAComKZXSJ5pJgp5fni0wcQc)
-* [Come usa php su macOS](https://www.youtube.com/playlist?list=PLbejvFLz_IAAs5ucaSqL-57KAichQXvPe)
+* [Come installare e usare Xampp su Windows](https://www.youtube.com/playlist?list=PLbejvFLz_IAComKZXSJ5pJgp5fni0wcQc)
+* [Come usare php su macOS](https://www.youtube.com/playlist?list=PLbejvFLz_IAAs5ucaSqL-57KAichQXvPe)
 * [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
 * [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
 
