@@ -1,89 +1,57 @@
 # Progettazione e creazione di siti web e Interfacce e Usabilità
 
 ## Avviso 
-__La prossima lezione di "Interfacce e Usabilità" è prevista martedì 6 febbraio alle ore 14:00 in aula Turing.__ 
+__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 12 marzo alle ore 14:00 in aula Turing.__ 
 <!-- Si consiglia di partecipare muniti di portatile.__
 __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__-->
 
 <!--__La prova parziale di "Progettazione e creazione di siti web e Interfacce e Usabilità" con quesiti a risposta multipla è prevista lunedì 18 dicembre alle ore 15:00 in aula 10.__ -->
 
-### 2 oct 2017
-1. [Course info and presentation](http://svel.to/oe6)
-2. [How internet works](http://svel.to/oe7) - [TEST](http://svel.to/oe8)
 
-### 6 oct 2017
-1. [Software/System development life cycle (SDLC)](http://svel.to/o99) - [TEST](http://svel.to/oh6)
-2. [Domain Name and Domain Name System (DNS)](http://svel.to/nkb) - [TEST](http://svel.to/nkh)
+## Lezioni di "Progettazione e creazione di siti web" 
 
-### 9 oct 2017
-1. [HTML](http://svel.to/oi7) - [TEST](http://svel.to/oi6)
-2. [Web Page Structure](http://svel.to/oib) - [TEST](http://svel.to/oia)
-
-### 13 oct 2017
-1. [CSS](http://svel.to/oho) - [TEST](http://svel.to/ohn)
-
-### 16 oct 2017
-1. [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
-2. [Web graphic](http://svel.to/on2)<!--, [TEST](http://svel.to/ndz)-->
-
-### 23 oct 2017
-0. [Project implementation - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
-1. [SublimeText](https://www.youtube.com/watch?v=89oKElqZv6w&index=1&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
-2. [GitHub](https://www.youtube.com/watch?v=xbqIeUkvLtI&index=2&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
-3. [Freenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3) 
+### Slides
+* [Course info and presentation](http://svel.to/oe6)
+* [How internet works](http://svel.to/oe7) - [TEST](http://svel.to/oe8)
+* [Software/System development life cycle (SDLC)](http://svel.to/o99) - [TEST](http://svel.to/oh6)
+* [Domain Name and Domain Name System (DNS)](http://svel.to/nkb) - [TEST](http://svel.to/nkh)
+* [HTML](http://svel.to/oi7) - [TEST](http://svel.to/oi6)
+* [Web Page Structure](http://svel.to/oib) - [TEST](http://svel.to/oia)
+* [CSS](http://svel.to/oho) - [TEST](http://svel.to/ohn)
+* [Digital Image](http://svel.to/om0), [TEST](http://svel.to/omz)
+* [Web graphic](http://svel.to/on2)<!--, [TEST](http://svel.to/ndz)-->
+* [Responsive web design - TEST](http://svel.to/owj)
+* [Web graphic TEST](http://svel.to/ndz)
+* [Responsive Web Design](https://tinyurl.com/yb3xtyl6)
+* [Front end framework](http://svel.to/ozk)
+* [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
+* [AJAX](http://svel.to/nfr), [TEST](http://svel.to/nkj)
+* [DBMS](http://svel.to/p20), [TEST](http://svel.to/ndh)
 
 
-### 27 oct 2017
-1. [Responsive web design - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADMlGDWuXa_XV0IwVLEz9Xl) 
+### Video
+* [Project implementation - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+* [SublimeText](https://www.youtube.com/watch?v=89oKElqZv6w&index=1&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+* [GitHub](https://www.youtube.com/watch?v=xbqIeUkvLtI&index=2&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1)
+* [Freenom](https://www.youtube.com/watch?v=jao0mrV8Zb8&list=PLbejvFLz_IADktt6mTGqFazweWX2dKNj1&index=3)
+* [Responsive web design - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IADMlGDWuXa_XV0IwVLEz9Xl) 
+* [Navbar - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IAB5p5IvfAKnraanwVbUhgmM) 
+* [Bootstrap 4 - Modal](https://www.youtube.com/playlist?list=PLbejvFLz_IABL_42bh96ardk-s7dfnXYd) 
+* [Bootstrap 4 - Form](https://www.youtube.com/playlist?list=PLbejvFLz_IAAU0Hg5K8xnrh6olqctZfEC)
+* [Digital divide](http://svel.to/pb2), [TEST](http://svel.to/pb3)
+* [Periferiche di Input e Output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+* [Come installare Xampp su Windows](https://www.youtube.com/playlist?list=PLbejvFLz_IAComKZXSJ5pJgp5fni0wcQc)
+* [Come usa php su macOS](https://www.youtube.com/playlist?list=PLbejvFLz_IAAs5ucaSqL-57KAichQXvPe)
+* [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
+* [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
 
-### 3 nov 2017
-1. [Responsive web design - TEST](http://svel.to/owj)
-2. [Navbar - playlist](https://www.youtube.com/playlist?list=PLbejvFLz_IAB5p5IvfAKnraanwVbUhgmM) 
+### Lezioni di "Interfacce e Usabilità" 
 
-### 6 nov 2017
-1. [Web graphic TEST](http://svel.to/ndz)
-2. [Responsive Web Design](https://tinyurl.com/yb3xtyl6)
-3. [Front end framework](http://svel.to/ozk)
-
-### 10 nov 2017
-1. [FORM](http://svel.to/nlw), [TEST](http://svel.to/nkf)
-2. [AJAX](http://svel.to/nfr), [TEST](http://svel.to/nkj)
-3. [DBMS](http://svel.to/p20), [TEST](http://svel.to/ndh)
-
-### 13 nov 2017
-1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
-2. [Bootstrap 4 - Modal](https://www.youtube.com/playlist?list=PLbejvFLz_IABL_42bh96ardk-s7dfnXYd) 
-
-## 20 nov 2017
-
-1. [la diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
-2. [Bootstrap 4 - Form](https://www.youtube.com/playlist?list=PLbejvFLz_IAAU0Hg5K8xnrh6olqctZfEC)
-
-## 24 nov 2017
-1. [Digital divide](http://svel.to/pb2), [TEST](http://svel.to/pb3)
-
-## 27 nov 2017
-1. [Evoluzione dei paradigmi di interazione](http://svel.to/pd7), [TEST](http://svel.to/pic)
-
-## 01 dec 2017
-1. [Periferiche di Input e Output](http://svel.to/ph1), [TEST](http://svel.to/pih)
-2. [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
-
-## 04 dec 2017
-1. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
-
-## 11 dec 2017
-1. [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
-
-## 18 dec 2017
-1. [Prova parziale di "Progettazione e creazione di siti web e Interfacce e Usabilità"]
-
-## 15 gen 2018
-1. [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
-
-## 22 gen 2018
-1. [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
-
-## 6 feb 2018
-1. [Progettare la grafica](http://svel.to/q55), [TEST](http://svel.to/q6d)
-2. [Progettare il testo](http://svel.to/quv), [TEST](http://svel.to/qun)
+* [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+* [La diversità degli utenti](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+* [Evoluzione dei paradigmi di interazione](http://svel.to/pd7), [TEST](http://svel.to/pic)
+* [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+* [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
+* [Progettare la grafica](http://svel.to/q55), [TEST](http://svel.to/q6d)
+* [Progettare il testo](http://svel.to/quv), [TEST](http://svel.to/qun)
+* [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
