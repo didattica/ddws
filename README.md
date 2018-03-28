@@ -45,6 +45,7 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
 * [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
 * [Come installare WordPress.org su GearHost](http://svel.to/shp)
+* [Disinstallare i temi e i plugins di WordPress, personalizzare la barra di navigazione di WordPress](http://svel.to/shp)
 
 ### Lezioni di "Interfacce e Usabilità" 
 
@@ -58,3 +59,5 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
 * [Discussione di un articolo scientifico sul tema interfaccia e usabilità](http://svel.to/rq4), [TEST](http://svel.to/sdn)
 * [Esempi di siti poco usabili](http://svel.to/sdr)
+* [Methods and techniques to make a usable user interface](http://svel.to/smq)
+* [Methods and techniques to redisign a user interface]()
