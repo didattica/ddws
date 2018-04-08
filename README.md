@@ -44,8 +44,8 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Come usare php su macOS](https://www.youtube.com/playlist?list=PLbejvFLz_IAAs5ucaSqL-57KAichQXvPe)
 * [Bootstrap - Agenzia viaggi e XAMPP](http://svel.to/pja)
 * [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
-* [Come installare WordPress.org su GearHost](http://svel.to/shp)
-* [Disinstallare i temi e i plugins di WordPress, personalizzare la barra di navigazione di WordPress](http://svel.to/shp)
+* [Come installare WordPress.org su GearHost e Heroku](http://svel.to/shp)
+* [Disinstallare i temi e i plugins di WordPress, personalizzare la barra di navigazione di WordPress](http://svel.to/t64)
 
 ### Lezioni di "Interfacce e Usabilità" 
 
