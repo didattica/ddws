@@ -58,6 +58,6 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Progettare il testo](http://svel.to/quv), [TEST](http://svel.to/qun)
 * [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
 * [Discussione di un articolo scientifico sul tema interfaccia e usabilità](http://svel.to/rq4), [TEST](http://svel.to/sdn)
-* [Esempi di siti poco usabili](http://svel.to/sdr)
+* [Esempi di siti poco usabili](http://svel.to/t7c)
 * [Methods and techniques to make a usable user interface](http://svel.to/smq)
 * [Methods and techniques to redisign a user interface]()
