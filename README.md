@@ -1,7 +1,7 @@
 # Progettazione e creazione di siti web e Interfacce e Usabilità
 
 ## Avviso 
-__La prossima lezione di "Interfacce e Usabilità" è prevista mercoledì 21 marzo alle ore 14:10 in aula 1A.__ 
+__La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 16 aprile alle ore 14:30 in aula Turing (p.t. edificio centrale).__ 
 <!-- Si consiglia di partecipare muniti di portatile.__
 __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembre alle ore 14:00 in aula 10 (p.t. edificio centrale).__ __Si consiglia di partecipare muniti di portatile.__-->
 
