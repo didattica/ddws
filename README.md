@@ -46,6 +46,7 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Google Maps JavaScript API](https://www.youtube.com/playlist?list=PLbejvFLz_IAA5ymM3AWJk5Y1xB920a8T6)
 * [Come installare WordPress.org su GearHost e Heroku](http://svel.to/shp)
 * [Disinstallare i temi e i plugins di WordPress, personalizzare la barra di navigazione di WordPress](http://svel.to/t64)
+* [How to create wordPress theme](http://svel.to/tk0)
 
 ### Lezioni di "Interfacce e Usabilità" 
 
@@ -60,4 +61,6 @@ __La prossima lezione di "Interfacce e Usabilità" è prevista lunedì 4 dicembr
 * [Discussione di un articolo scientifico sul tema interfaccia e usabilità](http://svel.to/rq4), [TEST](http://svel.to/sdn)
 * [Esempi di siti poco usabili](http://svel.to/t7c)
 * [Methods and techniques to make a usable user interface](http://svel.to/smq)
-* [Methods and techniques to redisign a user interface]()
+* [Methods and techniques to redisign a user interface](http://svel.to/smr)
+* [Agile Development Methods](http://svel.to/srd)
+* [XP software development methodology](http://svel.to/src)
